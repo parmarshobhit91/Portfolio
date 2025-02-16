@@ -1,4 +1,8 @@
 @import "tailwindcss";
+@import '@fontsource/poppins/index.css';
+@import '@fontsource/roboto/index.css';
+
+
 
 body {
   background-image: url('./assets/background/bg18.jpg');
@@ -8,4 +12,13 @@ body {
   background-repeat: no-repeat;
 
   overflow-x: hidden;
+}
+
+
+
+@layer base {
+  body {
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+  }
 }
