@@ -18,7 +18,7 @@ function App() {
     <div>
       <Navbar />
 
-      <div className='container mx-auto md:mx-10 my-10'>
+      <div className='container mx-auto md:mx-48 my-10'>
         <Element name='home'>
           <Home />
         </Element>

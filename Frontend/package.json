@@ -13,9 +13,12 @@
     "@fontsource/poppins": "^5.1.1",
     "@fontsource/roboto": "^5.1.1",
     "@tailwindcss/vite": "^4.0.6",
+    "axios": "^1.7.9",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.5",
     "react-scroll": "^1.9.2",
+    "swiper": "^11.2.4",
     "tailwindcss": "^4.0.6"
   },
   "devDependencies": {
